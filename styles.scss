@@ -162,49 +162,9 @@ body {
   }
 
   img {
-    width: 16rem;
+    width: 67vw;
     margin-top: 2rem;
-    margin-left: 2rem;
-  }
-
-  @media screen and (min-width: 400px) {
-    &__title {
-      font-size: 2rem;
-    }
-    p {
-      font-size: 1.2rem;
-    }
-    img {
-      width: 20rem;
-    }
-  }
-  @media screen and (min-width: 680px) {
-    img {
-      width: 26rem;
-    }
-  }
-  @media screen and (min-width: 780px) {
-    &__title {
-      font-size: 2.2rem;
-      margin: 3rem;
-    }
-
-    p {
-      font-size: 1.4rem;
-    }
-
-    img {
-      margin-top: 3rem;
-      margin-left: 5rem;
-      width: 37rem;
-    }
-  }
-  @media screen and (min-width: 880px) {
-    img {
-      margin-top: 5rem;
-      margin-left: 7rem;
-      width: 45rem;
-    }
+    margin-left: 7vw;
   }
 
   @media screen and (min-width: 780px) {
@@ -219,8 +179,8 @@ body {
 
     img {
       margin-top: 8rem;
-      margin-left: 5rem;
-      width: 50rem;
+      margin-left: 8vw;
+      width: 40vw;
     }
   }
 }
